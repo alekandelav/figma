@@ -2,9 +2,9 @@
 
 ### 1. Настройка Git
 
-\ git config --global user.name "Ваше Имя"        # Установка имени
-\ git config --global user.email "ваш@email.com"  # Установка email
-\ git config --list                              # Проверить настройки
+0. git config --global user.name "Ваше Имя"        # Установка имени
+0. git config --global user.email "ваш@email.com"  # Установка email
+0. git config --list                              # Проверить настройки
 
 ### 2. Клонирование репозитория
 bash
