@@ -1,9 +1,0 @@
-// Это псевдокод для плагина Figma//
-
-if (checkbox.checked) {
-  button.opacity = 1;
-  button.locked = false;
-} else {
-  button.opacity = 0.5;
-  button.locked = true;
-}
