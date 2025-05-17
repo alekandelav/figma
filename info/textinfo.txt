@@ -1,6 +1,6 @@
 ## Нейросети для работы в дизайне
 
-0. https://chat.deepseek.com/ (бесплатная текстовая нейросеть)
+0. [https://chat.deepseek.com/] (бесплатная текстовая нейросеть)
 0. https://www.krea.ai/ (Можно создать идеальную картинку)
 0. https://raphael.app/ru (бесплатные картинки)
 0. https://app.flair.ai/login?redirectTo=%2Fmodels%2FlQAnf6WBfyA9br9CDckU%3Ftab%3Dgenerate (с одеждой)
